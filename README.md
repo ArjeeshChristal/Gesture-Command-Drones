@@ -1,4 +1,4 @@
-# Gesture Command Drones 🖐️🚁
+# Gesture Command Drones 
 
 Ever wondered what it feels like to command a drone with your hands?  
 This project brings that fantasy to life — a gesture-controlled drone system where your **laptop processes gestures** and the **drone reacts via telemetry** in real-time.
@@ -6,10 +6,10 @@ This project brings that fantasy to life — a gesture-controlled drone system w
 ---
 
 ## Features
-- 🖐️ **Real-time hand gesture detection** using MediaPipe  
-- 🚁 **Drone control via DroneKit & MAVLink**  
-- 💻 **Processing done on your laptop** (no onboard heavy AI needed)  
-- 🔄 **Works with both SITL (simulation) and real drones**  
+- **Real-time hand gesture detection** using MediaPipe  
+- **Drone control via DroneKit & MAVLink**  
+- **Processing done on your laptop** (no onboard heavy AI needed)  
+- **Works with both SITL (simulation) and real drones**  
 
 ---
 
