@@ -35,6 +35,7 @@ Change the connection string in `gesture_drone.py` to:
 ```python
 connection_string = '127.0.0.1:5760'
 ```
+![Uploading Untitled design(1).gif…]()
 
 ### 4. Connection Check (Before Real Flight)
 ```bash
